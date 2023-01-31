@@ -7,7 +7,7 @@ This is the first readme file.
 * html forms
 
 ## Links
-https://www.google.com/
+https://johmcg.github.io/IST-256-MDs/
 
 ## Images
 ![Picture](download.jpg)
