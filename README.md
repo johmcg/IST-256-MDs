@@ -10,4 +10,4 @@ This is the first readme file.
 https://www.google.com/
 
 ## Images
-![Picture](\img\download.jpg)
+![Picture](download.jpg)
